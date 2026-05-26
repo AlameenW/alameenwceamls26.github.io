@@ -1,10 +1,10 @@
 ---
 layout: home
 title: Home
-display_name: Clyde Tandjong                  # <- shown as the big display name on the hero
+display_name: Alameen Adeku                 # <- shown as the big display name on the hero
 description: My CEAMLS SAIRI Summer Research Site
 
-motto: "Curious about how research can shape better tools for everyday life."
+motto: "Keep moving forward"
 
 quick_facts:
   - "🎓 Junior, Computer Science"
@@ -12,7 +12,7 @@ quick_facts:
   - "📍 Based in Baltimore, MD"
   - "🚀 I like pineapples"
 
-linkedin: https://www.linkedin.com/in/example
+linkedin: https://www.linkedin.com/in/alameen-adeku-2507492b6/
 image: /assets/images/profile.svg
 
 # A "Currently" block — three short status lines for the home page.
