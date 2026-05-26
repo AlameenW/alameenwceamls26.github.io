@@ -4,19 +4,16 @@ title: About Me
 permalink: /about-me.html
 
 about:
-  name: Clyde Tandjong
+  name: Alameen Adeku
   role: Junior, Computer Science
-  image: /assets/images/profile.svg
+  image: assets/images/headshot.jpeg
   linkedin: https://www.linkedin.com/in/example
   bio: |
-    Hi! I'm Clyde, a Computer Science student in the CEAMLS SAIRI Summer Research program.
+    Hi! I'm Alameen, a Computer Science student in the CEAMLS SAIRI Summer Research program.
 
-    My research interests sit at the intersection of human-computer interaction and applied
-    machine learning. I'm especially curious about how everyday tools can be made more
-    accessible and adaptive through smart software.
+    My research interests sit at the intersection of human-computer interaction and applied machine learning — specifically      how AI tools can support genuine learning rather than replace the cognitive effort behind it. I'm especially curious        about how intelligent systems can be designed to scaffold understanding for novice programmers, nudging them toward     independent thinking instead of passive dependency.
 
-    Outside of class, you'll find me biking trails, learning languages, or working on small
-    side projects with friends.
+    Outside of class, you'll find me on the court or the field, building projects with teammates, or exploring the kind of       problems that sit uncomfortably between disciplines.
 
   hobbies:
     - icon: 🎨
