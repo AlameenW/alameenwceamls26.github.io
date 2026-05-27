@@ -7,7 +7,7 @@ about:
   name: Alameen Adeku
   role: Junior, Computer Science
   image: assets/images/headshot.jpeg
-  linkedin: https://www.linkedin.com/in/example
+  linkedin: https://www.linkedin.com/in/alameen-adeku-2507492b6/
   bio: |
     Hi! I'm Alameen, a Computer Science student in the CEAMLS SAIRI Summer Research program.
 
