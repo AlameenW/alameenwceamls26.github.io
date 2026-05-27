@@ -8,9 +8,9 @@ motto: "Keep moving forward"
 
 quick_facts:
   - "🎓 Junior, Computer Science"
-  - "🔬 Interested in Quantum Physics"
-  - "📍 Based in Baltimore, MD"
-  - "🚀 I like pineapples"
+  - "🔬 Interested in AI & Machine Learning"
+  - "📍 Based in Hammond, LA"
+  - "🚀 I like watermelons"
 
 linkedin: https://www.linkedin.com/in/alameen-adeku-2507492b6/
 image: assets/images/headshot.jpeg
@@ -18,9 +18,9 @@ image: assets/images/headshot.jpeg
 # A "Currently" block — three short status lines for the home page.
 currently:
   - label: Reading
-    text: "The Design of Everyday Things — Don Norman"
+    text: "The 7 Habits of Highly Effective people - Stephen R. Covey"
   - label: Building
-    text: "A small Raspberry Pi sensor logging dashboard"
-  - label: Wondering
-    text: "How accessibility research can shape consumer hardware"
+    text: "myself in all areas of life"
+  - label: Researching
+    text: "How AI can building damage detection post disaster"
 ---
