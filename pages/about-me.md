@@ -16,15 +16,15 @@ about:
     Outside of class, you'll find me on the court or the field, building projects with teammates, or exploring the kind of       problems that sit uncomfortably between disciplines.
 
   hobbies:
-    - icon: 🎨
-      title: Digital Art
-      description: I make small illustrations and pixel art in my spare time.
-    - icon: 🚲
-      title: Biking
-      description: Weekend trail rides are how I reset.
+    - icon: ⛹🏿
+      title: Sports 
+      description: I love playing basketball, football(leg), and ping pong in my free time. 
+    - icon: 🎦
+      title: Watching movies
+      description: I love watching Sci-Fi and thriller movies. 
     - icon: 📚
       title: Reading
-      description: Sci-fi novels and design essays — both equally inspiring.
+      description: I also psychology and love to read self imporvement books.
 
   gallery:
     - image: /assets/images/gallery-1.svg
