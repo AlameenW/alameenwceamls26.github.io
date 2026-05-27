@@ -20,7 +20,7 @@ currently:
   - label: Reading
     text: "The 7 Habits of Highly Effective people - Stephen R. Covey"
   - label: Building
-    text: "myself in all areas of life"
+    text: "my technical skills and professional portfolio"
   - label: Researching
     text: "How AI can building damage detection post disaster"
 ---
