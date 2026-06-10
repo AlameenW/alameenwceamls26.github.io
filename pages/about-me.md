@@ -25,9 +25,9 @@ about:
     - icon: 📚
       title: Reading
       description: I also psychology and love to read self imporvement books.
-
+      
   gallery:
-    - image: /assets/images/gallery-1.svg
+    - image: /assets/images/ChatGPT Image alameen.png
       caption: A great day on the trail.
     - image: /assets/images/gallery-2.svg
       caption: One of my recent illustrations.
