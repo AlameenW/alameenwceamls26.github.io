@@ -6,7 +6,7 @@ permalink: /about-my-mentor.html
 graduate_mentor:
   name: John Tanimola
   title: PhD Student, Civil Engineering
-  image: /assets/images/graduate-student-mentor.svg
+  image: /assets/images/Dr John headshot.png
   website: https://www.linkedin.com/in/johnolajidetanimola-mnse-reg/?skipRedirect=true
   bio: |
     John is originally from Nigeria and specializes in graphics and applications within civil engineering. He decided to         move to the United States to pursue his PhD in civil engineering with a focus on machine learning and advanced   technologies.
@@ -16,7 +16,7 @@ graduate_mentor:
 faculty_mentor:
   name: Dr. Steve Efe
   title: Associate Professor, Civil Engineering
-  image: /assets/images/faculty-mentor.svg
+  image: /assets/images/Dr Steve headshot.png
   website: https://www.steveefe.com/fe-cbt-exam
   bio: |
     Dr. Efe works within the civil engineering department and has experience in computational modeling, app development,   website creation, and Java programming. As a mentor, Dr. Efe is very approachable, collaborative, and invested in teamwork.
