@@ -27,10 +27,10 @@ about:
       description: I also psychology and love to read self imporvement books.
       
   gallery:
-    - image: /assets/images/ChatGPT Image alameen.png
-      caption: A CHATGPT generated illustration.
-    - image: /assets/images/ceamls-img-2.jpeg
-      caption: A random photo.
+    - image: /assets/images/sairi group-3.jpeg
+      caption: Symposium day 1
+    - image: /assets/images/sairi-bowling.jpeg
+      caption: Hangout at Round 1 arcade
     - image: /assets/images/ceamls-img.jpeg
       caption: Hanging out with friends and mentors at lunch.
 ---
