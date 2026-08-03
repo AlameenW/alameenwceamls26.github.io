@@ -19,7 +19,7 @@ approach: |
   - Step 4 — Build the Interface:
   - Step 5 _ Communicate the Results:
 
-  Mention the specific tools, datasets, or methods you'll use. 
+  Mention the specific tools, datasets, or methods you'll use.  
 
 outcome: |
   A trained damage classification model — a fine-tuned CNN that can take an aerial building image and return a Green/Yellow/Red classification consistent with ATC-20 standards. Other researchers should be able to build on it,        retrain it on new disaster datasets, or benchmark it against their own approaches.
