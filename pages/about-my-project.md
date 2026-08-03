@@ -28,7 +28,7 @@ outcome: |
   A research poster and presentation — delivered at the SAIRI Research Symposium, documenting the full pipeline, methodology, results, and comparison against manual ATC-20 assessments.
   The bigger hope is that the app and model together serve as a proof-of-concept that remote, AI-assisted damage assessment is viable — something that could inform how emergency management agencies think about deploying this kind    of tool after real disasters.
 
-final_report_url: [P3_final_report](https://drive.google.com/file/d/1Tu7MdA_S2EUFrjvrTQgKge3uUWLfGt16/view?usp=sharing)
+final_report_url: "https://drive.google.com/file/d/1Tu7MdA_S2EUFrjvrTQgKge3uUWLfGt16/view?usp=sharing"
 
 grad_mentor:
   name: John Tanimola
